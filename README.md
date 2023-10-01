@@ -1,1 +1,0 @@
-# SSSF-auth-server-starter
